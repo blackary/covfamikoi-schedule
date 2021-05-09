@@ -22,7 +22,7 @@
   "dependencies": {
     "@expo/vector-icons": "^10.0.2",
     "expo": "^31.0.6",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "moment": "^2.22.1",
     "npm": "^6.1.0",
     "react": "16.5.0",
